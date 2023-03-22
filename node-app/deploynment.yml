@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: python-api
-          image: saqib11691/python-api:1678460111
+          image: saqib11691/python-api:1678798116
         
           ports:
             - containerPort: 5000
